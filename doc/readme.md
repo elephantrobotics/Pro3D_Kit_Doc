@@ -1,6 +1,6 @@
 # Pro3D_Kit User Manual
 
-<img src="../img/new8.png" style="zoom: 50%;" />
+<img src="../img/new10.png" style="zoom: 50%;" />
 
 ## Introduction
 Build the Pro3D_Kit in the order of the directory contents. First, refer to the software environment construction in Chapter 1 to configure the computer's operating environment, then build the hardware according to Chapter 2, then test whether each unit device is normal according to Chapter 3, then perform hand-eye calibration according to Chapter 4, and finally run the Pro3D Suite case program according to Chapter 5.
