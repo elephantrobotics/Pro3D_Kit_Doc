@@ -9,6 +9,7 @@
 |Memory|16.0 GB|
 |Hard disk|128G free|
 |Network port|Gigabit network port|
+|System|Windows 10 and above|
 
 ## 1.1 Python installation
 It is recommended to install Python 3.8 or above. Official Python download address: https://www.python.org/downloads/
