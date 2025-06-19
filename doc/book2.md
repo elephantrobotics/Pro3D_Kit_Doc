@@ -7,6 +7,7 @@ Place the corresponding items on the bottom plate according to the text prompts.
 <img src="../img/back.png" style="zoom: 20%;" />
 
 # 2.1 Robot arm installation
+
 First remove the screws of the cover
 
 <img src="../img/r1.png" style="zoom: 20%;" />
