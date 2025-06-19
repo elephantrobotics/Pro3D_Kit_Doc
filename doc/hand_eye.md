@@ -17,19 +17,19 @@
 
 点击菜单栏中手眼标定工具即可打开手眼标定工具窗口
 
-<img src="../img/image-20241118151846708.png" style="zoom: 50%;" />
+<img src="../img/image-20241118151846708.png" style="zoom: 100%;" />
 
 选择眼在手上,点击下一步
 
-<img src="../img/image-20241118151646002.png" style="zoom: 50%;" />
+<img src="../img/image-20241118151646002.png" style="zoom: 100%;" />
 
 选择多位姿标定,点击下一步
 
-<img src="../img/image-20241118151709062.png" style="zoom: 50%;" />
+<img src="../img/image-20241118151709062.png" style="zoom: 100%;" />
 
 选择六轴机器人,点击下一步
 
-<img src="../img/image-20241118151658056.png" style="zoom: 50%;" />
+<img src="../img/image-20241118151658056.png" style="zoom: 100%;" />
 
 安装图片的引导，按顺序点击按钮，待点击按钮后，日志输出后，再进行下一步操作，标定盘尽量放在视野中央，确保机械臂每次移动后都能完整拍到标定板
 
