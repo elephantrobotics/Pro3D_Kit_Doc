@@ -28,7 +28,7 @@ Then connect the emergency stop knob and turn it clockwise to open it
 
 <img src="../img/stop.png" style="zoom: 40%;" />
 
-Prepare the display cable in the accessories
+The HDMI connector is connected to the HDMI interface of the monitor, and the micro HDMI connector is connected to the robot. After the connection is completed, power on the robot to display.
 
 <img src="../img/Drawing 24.png" style="zoom: 40%;" />
 
