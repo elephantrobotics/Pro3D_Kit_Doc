@@ -67,11 +67,11 @@ pip install pymycobot numpy --upgrade
 
 双击快捷方式，首次启动RVS。在启动动画结束后，会出现以下提示。
 
-<img src="../img/p1_3_3.png" style="zoom: 50%;" />
+<img src="../img/p1_3_3.png" style="zoom: 70%;" />
 
 点击 “OK”，在许可证对话框点击 “Copy”，复制机器码，将机器码发给我们售后同事
 
-<img src="../img/p1_3_32.png" style="zoom: 70%;" />
+<img src="../img/p1_3_32.png" style="zoom: 100%;" />
 
 我们收到机器码后的，会提供一个激活文件，激活文件是一个license.txt，或者是一段字符串，自行保存为 license.txt，请将这个 txt 文件拷贝到 RVS 安装目录下的 license 目录下。
 
