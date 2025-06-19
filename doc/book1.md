@@ -7,7 +7,7 @@
 |CPU|12th Gen Intel(R) Core(TM) i7-12700H 2.30 GHz|
 |GPU|NVIDIA GeForce RTX 3060|
 |Memory|16.0 GB|
-|Hard disk|128G free|
+|Hard disk|128G available space|
 |Network port|Gigabit network port|
 |System|Windows 10 and above|
 
@@ -21,23 +21,36 @@ It is recommended to install Python 3.8 or above. Official Python download addre
 <img src="../img/pythondownload3.jpg" style="zoom: 50%;" />
 
 ## 1.2 Dependent library installation
-Open a console terminal (shortcut Win+R, enter cmd to enter the terminal), enter the following command and press Enter
+Open a console terminal (shortcut Win+R, enter cmd to enter the terminal), enter the following command and press the Enter key on the keyboard
 ```bash
 pip install pymycobot numpy --upgrade
 ```
 
-## 1.3 RVS installation
-RVS official download address: http://res1.percipio.xyz/rvs/V1.8/RobotVisionSuite.zip
+## 1.3 Software package acquisition
+Download address: https://github.com/elephantrobotics/Pro3D_Kit/tree/main
 
-After downloading the compressed package, unzip it and double-click the program to install it
+Enter the download address in the browser, and after the software package is downloaded, unzip it.
 
-<img src="../img/p1_2_3.png" style="zoom: 50%;" />
+<img src="../img/new100.png" style="zoom: 50%;" />
+
+<br/>
+
+## 1.4 RVS installation
+<!-- RVS official download address: http://res1.percipio.xyz/rvs/V1.8/RobotVisionSuite.zip -->
+
+In the software package, find the RVS installer and double-click the program to install it.
+
+<img src="../img/new101.png" style="zoom: 40%;" />
+
+<br/>
+
+<img src="../img/p1_2_3.png" style="zoom: 80%;" />
 
 <br/>
 
 <img src="../img/p1_2_4.png" style="zoom: 50%;" />
 
-The path should not contain Chinese characters. It is recommended to install it on a disk other than the C drive
+The path should not contain Chinese characters. It is recommended to install other disks other than C drive
 
 <img src="../img/p1_2_5.png" style="zoom: 50%;" />
 
@@ -62,18 +75,22 @@ After we receive the machine code, we will provide an activation file. The activ
 
 <img src="../img/image-20230713161953575.png" style="zoom: 70%;" />
 
-## 1.4 Camera parameter adjustment software
+## 1.5 Camera parameter adjustment software
 
-Camera parameter adjustment software download address: https://en.percipio.xyz/downloadcenter/
-<img src="../img/cam1.png" style="zoom: 50%;" />
+<!-- Camera parameter adjustment software download address: https://en.percipio.xyz/downloadcenter/
+<img src="../img/cam1.png" style="zoom: 50%;" /> -->
+In the software package, find the percipio application and double-click to run the program without installation
 
-## 1.5 Project file configuration
+<img src="../img/new102.png" style="zoom: 50%;" />
 
-Project file download address: https://github.com/elephantrobotics/Pro3D_Kit/tree/main
+## 1.6 Project file configuration
 
-<img src="../img/git.png" style="zoom: 70%;" />
+<!-- Project file download address: https://github.com/elephantrobotics/Pro3D_Kit/tree/main
 
-After downloading and unzipping the project file, copy the entire location_demo folder in the folder to the RVS installation directory
+<img src="../img/git.png" style="zoom: 70%;" /> -->
+
+In the software package, copy the entire location_demo folder to the RVS installation directory
+
+<img src="../img/new103.png" style="zoom: 50%;" />
 
 <img src="../img/gongcheng.png" style="zoom: 70%;" />
-

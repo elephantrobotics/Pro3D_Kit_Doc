@@ -1,10 +1,14 @@
 # 2 Hardware Installation
-Place the corresponding items according to the text prompts on the bottom plate.
+
+Please refer to the hardware installation section in the video tutorial: https://www.bilibili.com/video/BV1xxTNzxEL2/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f
+
+Place the corresponding items on the bottom plate according to the text prompts.
 
 <img src="../img/back.png" style="zoom: 20%;" />
 
-# 2.1 Robot Arm Installation
+# 2.1 Robot arm installation
 First remove the screws of the cover
+
 <img src="../img/r1.png" style="zoom: 20%;" />
 
 Fix the bottom plate to the robot with screws, and then fix the bottom plate to the edge of the desktop with a G-type clamp
@@ -19,7 +23,7 @@ When the power adapter is powered off, connect the adapter output to the power s
 
 <img src="../img/dianyuan.png" style="zoom: 50%;" />
 
-Then connect the emergency stop knob and turn it clockwise
+Then connect the emergency stop knob and turn it clockwise to open it
 
 <img src="../img/stop.png" style="zoom: 40%;" />
 
@@ -55,10 +59,6 @@ Enter the configuration center and click the start robot button
 
 <img src="../img/p4.png" style="zoom: 40%;" />
 
-<br/>
-
-<img src="../img/p5.png" style="zoom: 40%;" />
-
 Press and hold the return to zero button, and each joint of the robot arm will return to the corresponding zero point
 
 <img src="../img/zero1.png" style="zoom: 40%;" />
@@ -71,11 +71,15 @@ A pop-up window will appear after each joint of the robot arm is in place, and y
 
 <img src="../img/zero2.jpg" style="zoom: 30%;" />
 
+<br/>
+
 Select the wifi hotspot you want to connect to, enter the password to connect, and check the robot's wireless IP. The computer used by the customer must be connected to the same wifi hotspot as the robot, open vnc, enter the robot's wireless IP and username and password
 
 <img src="../img/wifi1.png" style="zoom: 30%;" />
 
-Just move the mouse to the WiFi icon to display the wireless IP.
+<br/>
+
+Just move the mouse to the WiFi icon to display the wireless IP
 
 <img src="../img/wifi2.png" style="zoom: 30%;" />
 
@@ -91,7 +95,7 @@ Use roboflow to adjust the J3 joint to 90 degrees
 
 Then refer to the picture to install the camera and suction pump to the end flange of the robot arm. The installation posture of the camera must be consistent with the picture
 
-<img src="../img/c_pose.jpg" style="zoom: 50%;" />
+<img src="../img/c_pose.jpg" style="zoom: 20%;" />
 
 Connect the communication cable to the camera. One end of the communication cable is an aviation plug and the other end is a network cable head. There is a notch on the aviation plug. Insert it according to the notch and tighten it. Connect the end with the network cable head to the computer
 
@@ -121,6 +125,6 @@ Finally, connect the control line of the suction pump box to the output end of t
 
 <img src="../img/c7.jpg" style="zoom: 20%;" />
 
-Installation effect reference picture
+The effect picture after installation
 
 <img src="../img/show.png" style="zoom: 50%;" />
