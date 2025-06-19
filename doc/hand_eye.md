@@ -1,11 +1,16 @@
 # 4 手眼标定
 
 可参考视频教程中的手眼标定章节：https://www.bilibili.com/video/BV1xxTNzxEL2/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f
+**视频章节时间节点**：2分47秒至4分10秒
 
-标定板生成网站：https://calib.io/pages/camera-calibration-pattern-generator
-可按照图片参数进行设置，用打印机打印出来
+<!-- 标定板生成网站：https://calib.io/pages/camera-calibration-pattern-generator
+可按照图片参数进行设置，用打印机打印出来 -->
 
-<img src="../img/b2.png" style="zoom: 50%;" />
+在相机工程中，找到标定板文件，用打印机打印出来即可
+
+<img src="../img/new9.png" style="zoom: 50%;" />
+
+<!-- <img src="../img/b2.png" style="zoom: 50%;" /> -->
 
 
 

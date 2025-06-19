@@ -22,6 +22,7 @@ robot_ip要改成机械臂的实际的无线IP
 ## 3.2 相机测试
 
 可参考视频教程中的相机调试章节：https://www.bilibili.com/video/BV1xxTNzxEL2/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f
+**视频章节时间节点**：1分44秒至2分46秒
 
 将与相机连接的有线网卡IP改成自动分配
 
