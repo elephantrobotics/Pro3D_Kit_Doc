@@ -26,12 +26,27 @@
 pip install pymycobot numpy --upgrade
 ```
 
-##  1.3 RVS安装
-RVS官方下载地址:http://res1.percipio.xyz/rvs/V1.8/RobotVisionSuite.zip
+##  1.3 软件包获取
+下载地址：https://github.com/elephantrobotics/Pro3D_Kit/tree/main
 
-下载好压缩包后，解压压缩包，双击程序进行安装
+在浏览器输入下载地址，软件包下载完成后，解压即可
 
-<img src="../img/p1_2_3.png" style="zoom: 50%;" />
+<img src="../img/new100.png" style="zoom: 50%;" />
+
+<br/>
+
+
+##  1.4 RVS安装
+<!-- RVS官方下载地址:http://res1.percipio.xyz/rvs/V1.8/RobotVisionSuite.zip -->
+
+
+在软件包中，找到RVS安装程序，双击程序进行安装
+
+<img src="../img/new101.png" style="zoom: 40%;" />
+
+<br/>
+
+<img src="../img/p1_2_3.png" style="zoom: 80%;" />
 
 <br/>
 
@@ -62,19 +77,27 @@ RVS官方下载地址:http://res1.percipio.xyz/rvs/V1.8/RobotVisionSuite.zip
 
 <img src="../img/image-20230713161953575.png" style="zoom: 70%;" />
 
-## 1.4 相机调参软件
+## 1.5 相机调参软件
 
-相机调参软件下载地址：https://en.percipio.xyz/downloadcenter/
-<img src="../img/cam1.png" style="zoom: 50%;" />
+<!-- 相机调参软件下载地址：https://en.percipio.xyz/downloadcenter/
+<img src="../img/cam1.png" style="zoom: 50%;" /> -->
+在软件包中，找到percipio应用程序，双击即可运行程序，无需安装
+
+<img src="../img/new102.png" style="zoom: 50%;" />
 
 
-## 1.5 工程文件配置
 
-工程文件下载地址：https://github.com/elephantrobotics/Pro3D_Kit/tree/main
+## 1.6 工程文件配置
 
-<img src="../img/git.png" style="zoom: 70%;" />
+<!-- 工程文件下载地址：https://github.com/elephantrobotics/Pro3D_Kit/tree/main
 
-将工程文件下载解压后，把文件夹中的location_demo整个文件夹拷贝到RVS的安装目录下
+<img src="../img/git.png" style="zoom: 70%;" /> -->
+
+
+
+在软件包中，把location_demo整个文件夹拷贝到RVS的安装目录下
+
+<img src="../img/new103.png" style="zoom: 50%;" />
 
 <img src="../img/gongcheng.png" style="zoom: 70%;" />
 

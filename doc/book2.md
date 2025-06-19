@@ -8,6 +8,7 @@
 
 # 2.1 机械臂安装
 先将罩壳的螺丝拆卸下来
+
 <img src="../img/r1.png" style="zoom: 20%;" />
 
 用螺丝将底板与机器人固定,然后用G型夹将底板固定在桌面边缘
@@ -70,12 +71,16 @@ HDMI接头与电脑相连，micro HDMI接有与机器人相连,连接好后给�
 
 <img src="../img/zero2.jpg" style="zoom: 30%;" />
 
+<br/>
+
 选择你要连接的wifi热点，输入密码连接后，查看机器人的无线IP，客户使用的电脑必须连接和机器人同一个wifi热点，打开vnc，输入机械臂的无线IP及用户名和密码
 
 <img src="../img/wifi1.png" style="zoom: 30%;" />
 
+<br/>
+
 鼠标只需移动到WiFi图标，即可显示无线IP
-.
+
 <img src="../img/wifi2.png" style="zoom: 30%;" />
 
 ## 2.2 相机&吸泵安装
@@ -92,7 +97,7 @@ HDMI接头与电脑相连，micro HDMI接有与机器人相连,连接好后给�
 
 然后参考图片的方式，将相机和吸泵安装到机械臂末端法兰，相机的安装姿态务必要和图片中保持一致
 
-<img src="../img/c_pose.jpg" style="zoom: 50%;" />
+<img src="../img/c_pose.jpg" style="zoom: 20%;" />
 
 
 给相机接上通信线，通信线一端是航空插，一端是网线头，航空插上有缺口，按照缺口插入后拧紧，带网线头的一端接到电脑上
