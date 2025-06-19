@@ -31,7 +31,7 @@
 
 <img src="../img/Drawing 24.png" style="zoom: 40%;" />
 
-HDMI接头与电脑相连，micro HDMI接有与机器人相连,连接好后给机器人上电即可显示。
+HDMI接头与显示器的HDMI接口相连，micro HDMI接有与机器人相连,连接好后给机器人上电即可显示。
 
 <img src="../img/Drawing 25.png" style="zoom: 40%;" />
 
