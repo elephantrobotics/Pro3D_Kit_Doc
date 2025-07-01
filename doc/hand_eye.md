@@ -1,6 +1,6 @@
 # 4 Hand-eye calibration
 
-Please refer to the hand-eye calibration chapter in the video tutorial: https://www.bilibili.com/video/BV1xxTNzxEL2/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f
+Please refer to the hand-eye calibration chapter in the video tutorial: https://www.youtube.com/watch?v=Dc6DFPx4O8E
 **Video chapter time node**: 2 minutes 47 seconds to 4 minutes 10 seconds
 
 <!-- Calibration board generation website: https://calib.io/pages/camera-calibration-pattern-generator
