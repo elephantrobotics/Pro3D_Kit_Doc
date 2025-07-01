@@ -1,6 +1,6 @@
 ## 5 Case reproduction
 
-Please refer to the crawling demonstration chapter in the video tutorial: https://www.bilibili.com/video/BV1xxTNzxEL2/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f
+Please refer to the crawling demonstration chapter in the video tutorial:https://www.youtube.com/watch?v=Dc6DFPx4O8E
 **Video chapter time node**: 6 minutes 27 seconds to 6 minutes 55 seconds
 
 **Note**: Point cloud templates have been created for 4 types of PVC workpieces. Users do not need to create them again and can use them directly
