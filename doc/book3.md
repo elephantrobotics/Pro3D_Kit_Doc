@@ -22,7 +22,7 @@ robot_ip should be changed to the actual wireless IP of the robot
 
 ## 3.2 Camera Test
 
-Please refer to the camera debugging section in the video tutorial: https://www.bilibili.com/video/BV1xxTNzxEL2/?spm_id_from=333.337.search-card.all.click&vd_source=672e3f7240eaaca210b45e7c033dc45f
+Please refer to the camera debugging section in the video tutorial: https://www.youtube.com/watch?v=Dc6DFPx4O8E
 **Video chapter time node**: 1 minute 44 seconds to 2 minutes 46 seconds
 
 Change the IP of the wired network card connected to the camera to automatic allocation
